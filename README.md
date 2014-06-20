@@ -2,6 +2,10 @@
 
 > Simple promised wrapper for http resources for client-side JavaScript or Node.js
 
+## Setup
+
+`npm install api-resource`
+
 ## Simple usage
 
 ```javascript
