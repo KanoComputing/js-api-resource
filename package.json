@@ -1,6 +1,6 @@
 {
   "name": "api-resource",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Simple HTTP resource wrapper",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,10 @@
     "q": "^1.0.x",
     "qs": "^0.6.x",
     "xmlhttprequest": "^1.6.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:KanoComputing/js-api-resource.git"
   },
   "devDependencies": {
     "mocha": "^1.20.x",
