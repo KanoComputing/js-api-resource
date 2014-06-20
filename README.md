@@ -1,6 +1,6 @@
 ## API Resource
 
-> Simple promised wrapper for http resources for client-side JavaScript or Node.js
+> Simple wrapper for http resources for client-side JavaScript or Node.js
 
 ## Setup
 
