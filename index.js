@@ -1,1 +1,1 @@
-module.exports = require(window ? './lib/request-browser' : './lib/request-server');
+module.exports = require(window ? './lib/Resource-browser' : './lib/Resource-server');
