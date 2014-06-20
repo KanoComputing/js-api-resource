@@ -1,1 +1,5 @@
-module.exports = require(window ? './lib/Resource-browser' : './lib/Resource-server');
+if (typeof window !== 'undefined') {
+    module.exports = require('./lib/Resource-browser');
+} else {
+    module.exports = require('./lib/Resource-server');
+}

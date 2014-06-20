@@ -1,6 +1,6 @@
 {
   "name": "api-resource",
-  "version": "0.0.0",
+  "version": "0.0.5",
   "description": "Simple HTTP resource wrapper",
   "main": "index.js",
   "scripts": {
