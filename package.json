@@ -1,0 +1,22 @@
+{
+  "name": "api-resource",
+  "version": "0.0.0",
+  "description": "Simple HTTP resource wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Tancredi Trugenberger",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.x",
+    "eventemitter2": "^0.4.x",
+    "q": "^1.0.x",
+    "qs": "^0.6.x",
+    "xmlhttprequest": "^1.6.x"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.x",
+    "should": "^4.0.x"
+  }
+}
